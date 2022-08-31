@@ -19,6 +19,9 @@
 - Data Dogrulamaları Için **Pojo** Class Yapısı Ile Çalışıldı.
 - **POJO Class** icinde syntex yapısı için **Lombok** kütüphanesi kullanıldı
 
+![Image of Yaktocat](https://octodex.github.com/manufacturetocat/)
+![Image of Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Image of Selenium](src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg")
 
 
  
